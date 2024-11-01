@@ -12,7 +12,7 @@ Para baixar e executar este projeto localmente, siga as instruções abaixo:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/GustavoS46/produtividade.git
+git clone https://github.com/GustavoS46/tecnologia.git
 
 2. **Navegue até o diretório do projeto:**
 ```bash
